@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917049348701",
+    "project_id": "arhomes-app",
+    "storage_bucket": "arhomes-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917049348701:android:2335ad249240bbc55b73b4",
+        "android_client_info": {
+          "package_name": "com.example.ARhomes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBePsiZRuKv1DzpQGBqZkYhh84jtwm5pA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
